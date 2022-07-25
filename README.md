@@ -1,1 +1,1 @@
-# simple-one-page-design
+In this repository I am creating a simple layout design to improve my web deveopment concepts 
