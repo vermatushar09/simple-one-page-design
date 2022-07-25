@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+
+body
+{
+    background-color: black;
+}
+
+.content
+{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 4.5cm;
+    margin-left: -12cm;
+    font-size: 80px;
+    text-decoration: overline aqua;
+    font-family: 'Rampart One', cursive;;
+  
+  
+}
+
+
+.side
+{
+    margin-top: -10cm;
+    margin-left: 24cm;
+}
